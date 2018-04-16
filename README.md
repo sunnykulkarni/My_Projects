@@ -1,5 +1,3 @@
-# Projects
+# Author: Sunny Kulkarni
 
-Author: Sunny Kulkarni
-
-Repository for key projects
+# Repository for key projects
