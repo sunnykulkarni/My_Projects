@@ -3,12 +3,10 @@
 
 ### Team: Zhaohong Niu, Sunny Kulkarni and Chenxi Cui**
 
-**Project Idea -**
+**Project Objective -**
 
-The objective of our report is to do a base study of the existing bike sharing systems and identify patterns towards solving the bike and spots imbalance problem.
+The objective is to optimize Bike Share Systems to ensure sufficient bikes are available at every station and draw insights for user's ridership patterns.
 
 As part of our study, we - 
-
-1. Analysed the citibike station location and its proximity to the subway stations.
-  
+1. Analysed the NYC's Citibike station location and its proximity to the Subway stations.
 2. Studied the riders trip data for other bike sharing systems for different locations in US to gain insights into the bike rider’s behavior.
