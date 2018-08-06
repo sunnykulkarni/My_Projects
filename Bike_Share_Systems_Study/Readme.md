@@ -1,8 +1,7 @@
 ## Project - BIKE SHARING SYSTEMS
 ## TRAVEL PATTERNS AND CORRELATION STUDY
 
-
-**Team: Zhaohong Niu, Sunny Kulkarni and Chenxi Cui**
+### Team: Zhaohong Niu, Sunny Kulkarni and Chenxi Cui**
 
 **Project Idea -**
 
